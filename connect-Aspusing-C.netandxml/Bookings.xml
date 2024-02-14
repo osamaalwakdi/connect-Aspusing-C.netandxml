@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bookings>
+	<Booking>
+		<BookingID>1</BookingID>
+		<CustName>fggg</CustName>
+		<CustEmail>gg@j.f</CustEmail>
+		<GuestNo>1</GuestNo>
+		<InDate>2024-02-03</InDate>
+		<OutDate>2024-02-03</OutDate>
+		<RoomType>غرفة ديلوكس</RoomType>
+	</Booking>
+	<Booking>
+		<BookingID>1</BookingID>
+		<CustName>Osama</CustName>
+		<CustEmail>Osama@gmail.com</CustEmail>
+		<GuestNo>1</GuestNo>
+		<InDate>2024-02-03</InDate>
+		<OutDate>2024-02-03</OutDate>
+		<RoomType>غرفة ديلوكس</RoomType>
+	</Booking>
+</Bookings>
